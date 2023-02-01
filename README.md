@@ -1,1 +1,1 @@
-my first readme
+BUILDING_KEY_PROJECT
